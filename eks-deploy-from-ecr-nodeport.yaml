@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-python-app
-        image: 211223789150.dkr.ecr.us-east-2.amazonaws.com/my-python-repo
+        image: 649562814399.dkr.ecr.us-east-1.amazonaws.com/my-python-repo
         imagePullPolicy: Always
 # service type loadbalancer       
 ---
